@@ -26,7 +26,7 @@ Open ```WriteProcessMemory Hack.exe```, its will automaticly ask you for the new
 
 - Facebook: (https://www.facebook.com/badiiiro/)
 - Twitter: (https://twitter.com/badiiiro)
-- Email: (badiiiro@pm.me)
+- Email: (badiiiro@gmail.com)
 
 # NOTE
 - I am NOT responsible for anything that can be made or any use of it! It was created for educational purpouses only (use it by your own risk), Thank you all.
